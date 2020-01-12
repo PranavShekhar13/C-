@@ -1,0 +1,78 @@
+
+1)Create a class and take input from it
+
+2)Create a class and take n inputs
+
+3)/*WAP in C++ to create a structure Student with
+		Name,Roll,marks of 3 subject
+ take input of n students and display according to grade*/
+
+4)//WAP IN C++ create a structure complex & find sum of two structure
+
+5)/*Create a structure Time with
+		Hr,Min,Sec
+ Add two time and display*/
+
+6)/*Create a structure in C named student having data members
+		rollno,name of student,branch and CGPA.
+  input the information of a single student and display the result*/
+
+7)/*Create structure employee having data members 
+		employee id, employee name,department and salary
+	Input information of 10 employees*/
+
+8)/*Write a structure Hospital having data members
+	patient id,patient name,doctor name
+  Create another structure date having data members
+	day,month,year 
+  which is nested structure of hospital .
+ Input the information of 5 students.
+*/
+
+9)
+/*Define a class to represent a bank account.Include the following members:
+Data members
+Name of the depositor
+Account number 
+Type of account
+Balance amount in the account
+Member function
+To assign initial values
+To deposit an amount
+To withdraw an amount after checking the balance 
+To display name and balance 
+Write a main program to test the program
+*/
+
+10)/*Write a class to represent a vector( a series of float values).Include member functions to perform the following task:
+a)To create the vector
+b)To modify the value of a given element 
+c)To multiply by a scalar value
+d)To display the vector in the form(10,20,30)
+*/
+
+11)/*
+	Modify class of program 9 for handling 10 customers
+*/
+
+12)/*
+Modify the class and program of 10 such that the program would be able to add two vectors and display the resultant vector.
+*/
+
+13)/* Create a class arcal
+having data members length and breadth
+& the member function getdata,show data & calculate the area*/
+
+14)/*
+	Create a class student having 
+	data members roll,name,mark
+	& member function getdata,display data.
+	Input the info of 5 students and display the result.
+*/
+
+15)/*
+	Create a class complex
+	data members real and imaginary
+	& member function add
+	& use default constructor,paramaterized & copy constructor.
+*/
